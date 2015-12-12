@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ejiek's static blog</title><link href="http://ejiek.github.io/" rel="alternate"></link><link href="http://ejiek.github.io/feeds/all.atom.xml" rel="self"></link><id>http://ejiek.github.io/</id><updated>2015-12-12T19:03:00+03:00</updated><entry><title>Hello, GitHub</title><link href="http://ejiek.github.io/hello-post.html" rel="alternate"></link><published>2015-12-12T19:03:00+03:00</published><author><name>Plav Vetrov</name></author><id>tag:ejiek.github.io,2015-12-12:hello-post.html</id><summary type="html">&lt;p&gt;&lt;strong&gt; Pshhhh! &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is the firts post.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Pshhh! &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Can U hear me?!
+My pelican is speaking O.o&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Pshh! &lt;/strong&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="fedoramagazine"></category></entry></feed>
